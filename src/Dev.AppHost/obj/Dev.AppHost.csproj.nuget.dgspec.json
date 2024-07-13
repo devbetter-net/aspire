@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj": {}
+    "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj": {
+    "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
+        "projectUniqueName": "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
         "projectName": "Dev.AppHost",
-        "projectPath": "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
+        "projectPath": "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\obj\\",
+        "outputPath": "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

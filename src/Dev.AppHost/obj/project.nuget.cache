@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vXaLmo1rEkM=",
+  "dgSpecHash": "XRXPhrDuirU=",
   "success": true,
-  "projectFilePath": "C:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
+  "projectFilePath": "c:\\code\\github\\dev\\aspire\\src\\Dev.AppHost\\Dev.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\aspire.hosting\\8.0.2\\aspire.hosting.8.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\aspire.hosting.apphost\\8.0.2\\aspire.hosting.apphost.8.0.2.nupkg.sha512",

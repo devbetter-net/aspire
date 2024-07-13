@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj": {}
+    "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj": {}
   },
   "projects": {
-    "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj": {
+    "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
+        "projectUniqueName": "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
         "projectName": "Dev.ApiService",
-        "projectPath": "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
+        "projectPath": "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\obj\\",
+        "outputPath": "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

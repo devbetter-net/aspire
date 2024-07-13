@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GpscUp9tgGA=",
+  "dgSpecHash": "uhHckJoQTlc=",
   "success": true,
-  "projectFilePath": "C:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
+  "projectFilePath": "c:\\code\\github\\dev\\aspire\\src\\Dev.ApiService\\Dev.ApiService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
